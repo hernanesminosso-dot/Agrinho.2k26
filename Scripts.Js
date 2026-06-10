@@ -25,3 +25,7 @@ function atualizarInterface(valorTotal) {
     display.innerText = `O investimento total é: R$ ${valorTotal.toFixed(2)}`;
     display.style.color = valorTotal > 1000 ? "orange" : "green";
 }
+<img src="img/img-plantas"
+<img src="img/img-plantas" 
+    alt="Plantação tecnológica"
+    class="rounded-lg shadow-xl border-4 border-white dark:border-zinc-700">
